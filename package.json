@@ -1,0 +1,22 @@
+{
+  "name": "night-quill",
+  "displayName": "Night Quill",
+  "description": "A dark theme with vibrant colors based on the Night Coder theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "darquill",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Quill",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Quill-color-theme.json"
+      }
+    ]
+  }
+}
