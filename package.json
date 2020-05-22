@@ -10,6 +10,9 @@
     "Themes"
   ],
   "publisher": "darquill",
+  "repository": {
+    "url": "https://github.com/dmalatesta/night-quill"
+  },
   "contributes": {
     "themes": [
       {
